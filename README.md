@@ -1,7 +1,4 @@
-<img width="80%" align="center" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
-<img height="350px" align="right" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/mobile-demo.gif" alt="portfolio mobile demo gif"/>
 
-<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
 <h2>Portfolio Template</h2>
 
 <pre>
@@ -18,9 +15,8 @@ at GitHub. Check live preview(link below).
 
 <h3>:eye_speech_bubble: Live demo</h3>
 
-Check live demonstration <a href="https://dorota1997.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
+Check live demonstration <a href="http://nasirahmed.in/"><strong>here</strong></a>
 
-<img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
 
 <h3>:books: Getting started</h3>
 
@@ -92,3 +88,5 @@ If you have any suggestions on what to improve in <em>react-frontend-dev-portfol
 Images used in portfolio template come from Pixabay, references:
 
 <a href="https://pixabay.com/photos/people-woman-girl-clothing-eye-2563491/">p1</a>, <a href="https://pixabay.com/photos/dog-puppy-sharpei-petit-animal-1865712/">p2</a>, <a href="https://pixabay.com/photos/night-camera-photographer-photo-1927265/">p3</a>, <a href="https://pixabay.com/photos/road-forest-season-autumn-fall-1072823/">p4</a>, <a href="https://pixabay.com/photos/neuschwanstein-castle-bavaria-701732/">p5</a>, <a href="https://pixabay.com/photos/hohenschwangau-alps-alpsee-bavaria-532864/">p6</a>
+
+<a href="https://github.com/Dorota1997/react-frontend-dev-portfolio">Parent Directory</a>

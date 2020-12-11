@@ -1,17 +1,17 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "title": "Front-end Developer",
+      "name": "Nasir Ahmed",
+      "title": "Full Stack Developer",
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/ahmednasir",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "url": "https://www.linkedin.com/in/nasirahmed0/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"

@@ -20,7 +20,7 @@ class App extends Component {
 
   applyPickedLanguage() {
     // this.swapCurrentlyActiveLanguage("secondary-lang-icon");
-    
+
     document.documentElement.lang = "en";
     var resumePath =
       document.documentElement.lang === window.$primaryLanguage
@@ -85,11 +85,11 @@ class App extends Component {
       <div>
         <Header sharedData={this.state.sharedData.basic_info} />
         <div className="col-md-12 mx-auto text-center language"></div>
-        {/* <About
+        <About
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
         />
-        <Projects
+        {/*<Projects
           resumeProjects={this.state.resumeData.projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />

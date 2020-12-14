@@ -4,6 +4,8 @@ import "./App.scss";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import About from "./components/About";
+import Skills from "./components/Skills";
+import Experience from "./components/Experience";
 
 class App extends Component {
   constructor(props) {
@@ -89,7 +91,7 @@ class App extends Component {
         {/*<Projects
           resumeProjects={this.state.resumeData.projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
-        />
+        />*/}
         <Skills
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
@@ -97,7 +99,7 @@ class App extends Component {
         <Experience
           resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}
-        /> */}
+        />
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
       </div>
     );

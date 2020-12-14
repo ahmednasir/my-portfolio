@@ -81,37 +81,41 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "ParkingRhino",
+        "title": "Full-Stack Developer",
+        "years": "08.2018 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript",
+          "Python"
         ],
         "technologies": [
           "REST API",
           "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Ionic",
+          "Flutter",
+          "Python",
+          "MySql",
+          "DynamoDB",
+          "NodeJS",
+          "Flask",
+          "AWS"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "TechVariable",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Java",
+          "MongoDB"
         ],
+        "years": "06.2017 - 08.2017",
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Java",
+          "JSP",
+          "MongoDB",
+          "MySQL"
         ]
       }
     ]

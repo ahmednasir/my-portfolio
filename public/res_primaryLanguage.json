@@ -81,6 +81,24 @@
     ],
     "experience": [
       {
+        "company": "YellowAI",
+        "title": "SDE",
+        "years": "06.2021 - present",
+        "mainTech": [
+          "JavaScript",
+          "TypeScript"
+        ],
+        "technologies": [
+          "REST API",
+          "TiDB",
+          "JavaScript",
+          "TypeScript",
+          "ReactJS",
+          "MongoDB",
+          "MySql"
+        ]
+      },
+      {
         "company": "ParkingRhino",
         "title": "Full-Stack Developer",
         "years": "08.2018 - 05.2021",
